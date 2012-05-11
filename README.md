@@ -1,0 +1,4 @@
+Layzi
+=====
+
+Javascript layer manager
